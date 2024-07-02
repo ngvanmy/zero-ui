@@ -1,4 +1,4 @@
 {
   "schemaVersion" :2 ,
-  "dockerfilePath" :"/Docker/zero-ui/Dockerfile"
+  "dockerfilePath" :"/docker/zero-ui/Dockerfile"
  }
